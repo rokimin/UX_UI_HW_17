@@ -29,7 +29,7 @@ padding: 25px;
 
 footer{
     background-color: #373738;
-    padding
+    padding: 25px
 }
 
 ul{
@@ -37,3 +37,7 @@ ul{
   vertical-align: top;
   padding: 25px;
 }
+
+li2{
+    color: white;
+  }
